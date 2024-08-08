@@ -22,11 +22,11 @@
     17. listed_in(city) : contains the neighborhood in which the restaurant is listed
 ##  Conclusion :
     ⦁	From the analysis 'Onesta', 'Empire Restaurant' & 'KFC'  are the most famous resaurants in banglore.
-    ⦁	Most restaurants offer options online order and delivery.
-    ⦁   Most restaurants don't offer table booking.
+    ⦁	 Most restaurants offer options online order and delivery.
+    ⦁    Most restaurants don't offer table booking.
     ⦁   From the analysis , most of the rating are within 3.5 and 4.5.
     ⦁	From the analysis we can see that most of the restaurant located in 'Koramangala 5th Block', 'BTM' & 'Indiranagar'.Then least restaurants are located 'KR Puram', 
-        'Kanakapura', 'Magadi Road'.
+         'Kanakapura', 'Magadi Road'.
     ⦁	'Casual Dining', 'Quick Bites', 'Cafe', 'Dessert Parlor' are the most common types of restaurant . 'Food Court', 'Casual Dining', 'Dhaba' are the least common.
     ⦁	From the analysis  pasta & Pizza are the famous food in bangalore.
     ⦁	From the analysis North Indian cuisines are the most famous in bangalore .
