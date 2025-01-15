@@ -2,7 +2,7 @@
 ##  Main Objective :
     In this project i performed Exploratory Data Analysis on zomato dataset.
     Bulid an appropriate visualization that will help various zomato restaurant to predict their respective ratings on the based  on certain features.
-##  Feature Descriotion :
+##  Feature Description :
     1. url : contains the url of the restaurant in the zomato website
     2. address: contains the address of the restaurant in Bengaluru
     3. name : contains the name of the restaurant
